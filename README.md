@@ -1,5 +1,5 @@
 ### Olá eu Sou o Leonardo
-- 🔭 Hoje trabalho com backend
+- 🔭 Hoje trabalho como fullstack
 - 🌱 Estudando C#,HTML,CSS,JS
 <div align="left">
   <a href="https://gitlab.com/siehgrain">
