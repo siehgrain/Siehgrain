@@ -1,6 +1,3 @@
-### Olá eu Sou o Leonardo
-- 🔭 Hoje trabalho como fullstack
-- 🌱 Estudando C#,HTML,CSS,JS
 <div align="left">
   <a href="https://gitlab.com/siehgrain">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=siehgrain&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
